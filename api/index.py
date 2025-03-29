@@ -78,8 +78,3 @@ def predict_crop():
     long = data.get("long")
 
     return jsonify({"predicted_crop": get_predicted_crop(lat, long)})
-
-
-# Run Flask app
-if __name__ == "__main__":
-    app.run(debug=True)
