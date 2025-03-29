@@ -16,6 +16,11 @@ CORS(app)
 client = OpenAI()
 
 
+
+@app.route("/", methods=["GET"])
+def home():
+    return "Home"
+
 # ChatGPT API endpoint
 @app.route("/chat", methods=["POST"])
 def chat():
