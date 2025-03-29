@@ -1,0 +1,641 @@
+State,District,latitude,longitude,Soil Type,N,P,K,pH
+Jammu And Kashmir,Kupwara,34.5140696,74.19136703,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Badgam,34.0385248,74.7360163,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Leh(Ladakh),34.1718527,77.5866776,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Kargil,33.802819,76.47300957,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Punch,33.7670004,74.0957143,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Rajouri,33.3772495,74.3132332,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Kathua,32.3765524,75.5243044,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Baramula,34.2086903,74.343498,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Bandipore,34.4563234,74.68249998,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Srinagar,34.0747444,74.8204443,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Ganderbal,34.2889322,75.04079834,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Pulwama,33.9490472,75.04183347,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Shupiyan,33.43,74.5,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Anantnag,33.74610995,75.18544753,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Kulgam,33.6446899,75.0188432,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Doda,33.13260995,75.58900789,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Ramban,33.33328915,75.19847627,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Kishtwar,33.3107908,75.7694213,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Udhampur,32.911964,75.32658449,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Reasi,33.20599085,74.86267936,Alluvial Soil,300,32,225,7.0
+Jammu And Kashmir,Jammu,32.7185614,74.8580917,Mountain Soil,200,18,150,5.5
+Jammu And Kashmir,Samba,32.57591175,75.12034456,Alluvial Soil,300,32,225,7.0
+Himachal Pradesh,Chamba,32.69233155,76.16315523,Mountain Soil,200,18,150,5.5
+Himachal Pradesh,Kangra,32.0768665,76.29858721,Alluvial Soil,300,32,225,7.0
+Himachal Pradesh,Lahul AND Spiti,32.5391825,77.19833434,Mountain Soil,200,18,150,5.5
+Himachal Pradesh,Kullu,31.9578974,77.1089232,Alluvial Soil,300,32,225,7.0
+Himachal Pradesh,Mandi,31.65166165,77.00925419,Mountain Soil,200,18,150,5.5
+Himachal Pradesh,Hamirpur,25.75,80.0,Alluvial Soil,300,32,225,7.0
+Himachal Pradesh,Una,44.9830709,16.2475717,Mountain Soil,200,18,150,5.5
+Himachal Pradesh,Bilaspur,22.1638486,82.13659232,Alluvial Soil,300,32,225,7.0
+Himachal Pradesh,Solan,42.9431682,1.6950613,Mountain Soil,200,18,150,5.5
+Himachal Pradesh,Sirmaur,30.6991321,77.44653039,Alluvial Soil,300,32,225,7.0
+Himachal Pradesh,Shimla,31.1041526,77.1709729,Mountain Soil,200,18,150,5.5
+Himachal Pradesh,Kinnaur,31.59301295,78.32814169,Alluvial Soil,300,32,225,7.0
+Punjab,Gurdaspur,31.9037264,75.22755867,Alluvial Soil,300,32,225,7.0
+Punjab,Kapurthala,31.38564755,75.30533043,Alluvial Soil,300,32,225,7.0
+Punjab,Jalandhar,31.29223115,75.56788777,Alluvial Soil,300,32,225,7.0
+Punjab,Hoshiarpur,31.60929415,75.84597544,Alluvial Soil,300,32,225,7.0
+Punjab,Shahid Bhagat Singh Nagar,16.69382715,74.46158814,Alluvial Soil,300,32,225,7.0
+Punjab,Fatehgarh Sahib,30.66340415,76.38030002,Alluvial Soil,300,32,225,7.0
+Punjab,Ludhiana,30.9090157,75.851601,Alluvial Soil,300,32,225,7.0
+Punjab,Moga,30.7877554,75.15935899,Alluvial Soil,300,32,225,7.0
+Punjab,Firozpur,30.8753832,74.65254375,Alluvial Soil,300,32,225,7.0
+Punjab,Muktsar,30.4692,74.5182,Alluvial Soil,300,32,225,7.0
+Punjab,Faridkot,30.6014507,74.79501757,Alluvial Soil,300,32,225,7.0
+Punjab,Bathinda,30.17948135,75.04710979,Alluvial Soil,300,32,225,7.0
+Punjab,Mansa,29.8764133,75.4889564,Alluvial Soil,300,32,225,7.0
+Punjab,Patiala,30.20927775,76.33972314,Alluvial Soil,300,32,225,7.0
+Punjab,Amritsar,31.6356659,74.8787496,Alluvial Soil,300,32,225,7.0
+Punjab,Tarn Taran,31.32124525,74.84166874,Alluvial Soil,300,32,225,7.0
+Punjab,Rupnagar,31.0917102,76.52897013,Alluvial Soil,300,32,225,7.0
+Punjab,Sahibzada Ajit Singh Nagar,30.7041168,76.7176885,Alluvial Soil,300,32,225,7.0
+Punjab,Sangrur,30.135717,75.8533326,Alluvial Soil,300,32,225,7.0
+Punjab,Barnala,30.3716802,75.5039887,Alluvial Soil,300,32,225,7.0
+Chandigarh,Chandigarh,30.7334421,76.7797143,Alluvial Soil,300,32,225,7.0
+Uttarakhand,Uttarkashi,30.9635733,78.63625207,Mountain Soil,200,18,150,5.5
+Uttarakhand,Chamoli,30.49859555,79.61905372,Alluvial Soil,300,32,225,7.0
+Uttarakhand,Rudraprayag,30.49158345,79.03660668,Mountain Soil,200,18,150,5.5
+Uttarakhand,Tehri Garhwal,30.46581805,78.48373488,Alluvial Soil,300,32,225,7.0
+Uttarakhand,Dehradun,30.3255646,78.0436813,Mountain Soil,200,18,150,5.5
+Uttarakhand,Garhwal,30.25,79.333333,Alluvial Soil,300,32,225,7.0
+Uttarakhand,Pithoragarh,30.12649745,80.48169891,Mountain Soil,200,18,150,5.5
+Uttarakhand,Bageshwar,30.0087902,79.92801831,Alluvial Soil,300,32,225,7.0
+Uttarakhand,Almora,29.70265095,79.43263182,Mountain Soil,200,18,150,5.5
+Uttarakhand,Champawat,29.235032,80.10230681,Alluvial Soil,300,32,225,7.0
+Uttarakhand,Nainital,29.3905295,79.460869,Mountain Soil,200,18,150,5.5
+Uttarakhand,Udham Singh Nagar,29.04783135,79.43261637,Alluvial Soil,300,32,225,7.0
+Uttarakhand,Hardwar,29.9384473,78.1452985,Mountain Soil,200,18,150,5.5
+Haryana,Panchkula,30.6975401,76.8551066,Alluvial Soil,300,32,225,7.0
+Haryana,Ambala,30.3843674,76.770421,Alluvial Soil,300,32,225,7.0
+Haryana,Yamunanagar,30.1231349,77.286329,Alluvial Soil,300,32,225,7.0
+Haryana,Kurukshetra,29.9693747,76.8482787,Alluvial Soil,300,32,225,7.0
+Haryana,Kaithal,29.7996588,76.3989903,Alluvial Soil,300,32,225,7.0
+Haryana,Karnal,29.7255766,76.91069239,Alluvial Soil,300,32,225,7.0
+Haryana,Panipat,29.3912753,76.9771675,Alluvial Soil,300,32,225,7.0
+Haryana,Sonipat,28.9953758,77.0233627,Alluvial Soil,300,32,225,7.0
+Haryana,Jind,29.3152073,76.314082,Alluvial Soil,300,32,225,7.0
+Haryana,Fatehabad,29.5359209,75.57529015,Alluvial Soil,300,32,225,7.0
+Haryana,Sirsa,29.6063041,74.90365679,Alluvial Soil,300,32,225,7.0
+Haryana,Hisar,29.2396596,75.81745048,Alluvial Soil,300,32,225,7.0
+Haryana,Bhiwani,28.7931703,76.1391283,Alluvial Soil,300,32,225,7.0
+Haryana,Rohtak,28.9010899,76.5801935,Alluvial Soil,300,32,225,7.0
+Haryana,Jhajjar,28.59644605,76.65053663,Alluvial Soil,300,32,225,7.0
+Haryana,Mahendragarh,28.13269705,76.16974476,Alluvial Soil,300,32,225,7.0
+Haryana,Rewari,28.1956468,76.6165179,Alluvial Soil,300,32,225,7.0
+Haryana,Gurgaon,28.4646148,77.0299194,Alluvial Soil,300,32,225,7.0
+Haryana,Mewat,27.99351765,77.04196339,Alluvial Soil,300,32,225,7.0
+Haryana,Faridabad,28.4031478,77.3105561,Alluvial Soil,300,32,225,7.0
+Haryana,Palwal,28.0599426,77.32234221,Alluvial Soil,300,32,225,7.0
+Nct Of Delhi,North West,28.42,76.59,Alluvial Soil,300,32,225,7.0
+Nct Of Delhi,North,28.42,77.05,Alluvial Soil,300,32,225,7.0
+Nct Of Delhi,North East,28.44,77.05,Alluvial Soil,300,32,225,7.0
+Nct Of Delhi,East,28.44,77.17,Alluvial Soil,300,32,225,7.0
+Nct Of Delhi,New Delhi,28.42,77.05,Alluvial Soil,300,32,225,7.0
+Nct Of Delhi,Central,28.4,77.05,Alluvial Soil,300,32,225,7.0
+Nct Of Delhi,West,28.42,76.59,Alluvial Soil,300,32,225,7.0
+Nct Of Delhi,South West,28.3,76.59,Alluvial Soil,300,32,225,7.0
+Nct Of Delhi,South,28.3,77.05,Alluvial Soil,300,32,225,7.0
+Rajasthan,Ganganagar,23.7497214,91.87663495,Desert Soil,100,12,175,8.2
+Rajasthan,Hanumangarh,29.3659533,74.29842897,Alluvial Soil,300,32,225,7.0
+Rajasthan,Bikaner,28.0159286,73.3171367,Desert Soil,100,12,175,8.2
+Rajasthan,Churu,28.20477805,74.69129961,Alluvial Soil,300,32,225,7.0
+Rajasthan,Jhunjhunun,28.1070891,75.3900287,Desert Soil,100,12,175,8.2
+Rajasthan,Alwar,27.41400485,76.6170387,Alluvial Soil,300,32,225,7.0
+Rajasthan,Bharatpur,27.0246959,77.29201163,Desert Soil,100,12,175,8.2
+Rajasthan,Dhaulpur,26.65303315,77.62410373,Alluvial Soil,300,32,225,7.0
+Rajasthan,Karauli,26.4530971,77.01604608,Desert Soil,100,12,175,8.2
+Rajasthan,Sawai Madhopur,26.1137182,76.42406373,Alluvial Soil,300,32,225,7.0
+Rajasthan,Dausa,26.80486585,76.4437457,Desert Soil,100,12,175,8.2
+Rajasthan,Jaipur,26.9154576,75.8189817,Alluvial Soil,300,32,225,7.0
+Rajasthan,Sikar,27.6625058,75.02799053,Desert Soil,100,12,175,8.2
+Rajasthan,Nagaur,26.9873443,73.73890107,Alluvial Soil,300,32,225,7.0
+Rajasthan,Jodhpur,26.2967719,73.0351433,Desert Soil,100,12,175,8.2
+Rajasthan,Jaisalmer,26.9116615,70.9124888,Alluvial Soil,300,32,225,7.0
+Rajasthan,Barmer,25.5814853,71.19249223,Desert Soil,100,12,175,8.2
+Rajasthan,Jalor,25.3476006,72.6260916,Alluvial Soil,300,32,225,7.0
+Rajasthan,Sirohi,24.8114047,72.83002573,Desert Soil,100,12,175,8.2
+Rajasthan,Pali,25.45522105,73.41938896,Alluvial Soil,300,32,225,7.0
+Rajasthan,Ajmer,26.4691,74.639,Desert Soil,100,12,175,8.2
+Rajasthan,Tonk,26.122266,75.82386305,Alluvial Soil,300,32,225,7.0
+Rajasthan,Bundi,25.4367659,75.73614709,Desert Soil,100,12,175,8.2
+Rajasthan,Bhilwara,25.48911765,74.33007257,Alluvial Soil,300,32,225,7.0
+Rajasthan,Rajsamand,25.2892459,73.82410775,Desert Soil,100,12,175,8.2
+Rajasthan,Dungarpur,23.8538893,73.7087177,Alluvial Soil,300,32,225,7.0
+Rajasthan,Banswara,23.49150465,74.3502172,Desert Soil,100,12,175,8.2
+Rajasthan,Chittaurgarh,24.5,74.5,Alluvial Soil,300,32,225,7.0
+Rajasthan,Kota,25.1737019,75.8574194,Desert Soil,100,12,175,8.2
+Rajasthan,Baran,24.92081645,76.68219847,Alluvial Soil,300,32,225,7.0
+Rajasthan,Jhalawar,24.3132368,76.52210783,Desert Soil,100,12,175,8.2
+Rajasthan,Udaipur,24.578721,73.6862571,Alluvial Soil,300,32,225,7.0
+Rajasthan,Pratapgarh,25.75,81.75,Desert Soil,100,12,175,8.2
+Uttar Pradesh,Saharanpur,29.9856799,77.50406459,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Muzaffarnagar,29.44969785,77.74293326,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Bijnor,29.4074203,78.48214063,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Moradabad,28.8796553,78.80953354,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Rampur,28.7934728,79.18458064,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Jyotiba Phule Nagar,19.1325956,72.9195901,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Meerut,29.0018557,77.76796715,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Baghpat,29.03747785,77.30627366,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Ghaziabad,28.7749966,77.45869671,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Gautam Buddha Nagar,28.36871595,77.59701208,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Bulandshahr,28.3874073,77.9743805,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Aligarh,27.8761073,78.13581531,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Mahamaya Nagar,26.5093135,82.61386559,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Mathura,27.4955539,77.6855554,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Agra,27.1752554,78.0098161,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Firozabad,27.19419535,78.46049561,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Mainpuri,27.20930715,79.06253692,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Budaun,28.0367001,79.1234,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Bareilly,28.45823445,79.40474518,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Pilibhit,28.4947158,80.10761216,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Shahjahanpur,27.9128583,79.74762538,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Kheri,28.116667,80.716667,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Sitapur,27.50267475,80.83351394,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Hardoi,27.33699775,80.09982319,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Unnao,26.5673264,80.61981927,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Lucknow,26.8381,80.9346001,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Rae Bareli,26.25,81.25,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Farrukhabad,27.43620025,79.48947784,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Kannauj,26.9986675,79.69279463,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Etawah,26.7155629,79.09170983,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Auraiya,26.65582145,79.51607567,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Kanpur Dehat,26.45856395,79.85480521,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Kanpur Nagar,26.4410107,80.26528026,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Jalaun,26.1048633,79.39191362,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Jhansi,25.529855,78.65278024,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Lalitpur,24.6999688,78.51861998,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Hamirpur,25.75,80.0,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Mahoba,25.36159385,79.70601097,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Banda,25.44385365,80.55952371,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Chitrakoot,25.21713895,81.10459272,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Fatehpur,25.8348023,80.91545469,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Pratapgarh,25.75,81.75,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Kaushambi,25.5342456,81.44935674,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Allahabad,25.4381302,81.8338005,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Bara Banki,26.9013312,81.2151601,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Faizabad,39.6003856,77.2571513,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Ambedkar Nagar,26.40459405,82.60651543,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Sultanpur,26.26047315,82.23805321,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Bahraich,27.73438225,81.47653998,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Shrawasti,19.1550091,72.84031725,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Balrampur,27.4476988,82.39562447,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Gonda,27.1103723,81.92389056,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Siddharthnagar,27.25117235,82.87165278,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Basti,26.83870835,82.5350919,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Sant Kabir Nagar,26.755082,83.03985452,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Mahrajganj,27.18372625,83.49173007,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Gorakhpur,26.6677977,83.36423338,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Kushinagar,26.7438272,83.9162322,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Deoria,26.4239911,83.76385778,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Azamgarh,26.023639,83.02931046,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Mau,26.03909045,83.49858462,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Ballia,25.87495945,84.12103293,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Jaunpur,25.7967065,82.48889924,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Ghazipur,25.60348625,83.50758884,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Chandauli,25.12569505,83.24946013,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Varanasi,25.3356491,83.0076292,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),25.424304,82.48839229,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Mirzapur,24.9316896,82.62801628,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Sonbhadra,24.4148159,83.06375167,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Etah,27.5550357,78.59922214,Alluvial Soil,300,32,225,7.0
+Uttar Pradesh,Kanshiram Nagar,13.0895889,77.5389719,Alluvial Soil,300,32,225,7.0
+Bihar,Pashchim Champaran,27.0,84.5,Alluvial Soil,300,32,225,7.0
+Bihar,Purba Champaran,26.583333,84.833333,Alluvial Soil,300,32,225,7.0
+Bihar,Sheohar,26.49342335,85.27175608,Alluvial Soil,300,32,225,7.0
+Bihar,Sitamarhi,26.5942841,85.500428,Alluvial Soil,300,32,225,7.0
+Bihar,Madhubani,26.3503076,86.22964237,Alluvial Soil,300,32,225,7.0
+Bihar,Supaul,26.2768089,86.79596144,Alluvial Soil,300,32,225,7.0
+Bihar,Araria,26.26510125,87.36994367,Alluvial Soil,300,32,225,7.0
+Bihar,Kishanganj,26.29841435,87.94667148,Alluvial Soil,300,32,225,7.0
+Bihar,Purnia,25.7758723,87.40876667,Alluvial Soil,300,32,225,7.0
+Bihar,Katihar,25.5586421,87.64571962,Alluvial Soil,300,32,225,7.0
+Bihar,Madhepura,25.7806118,86.93647531,Alluvial Soil,300,32,225,7.0
+Bihar,Saharsa,25.83307565,86.61437508,Alluvial Soil,300,32,225,7.0
+Bihar,Darbhanga,26.08298995,86.03249509,Alluvial Soil,300,32,225,7.0
+Bihar,Muzaffarpur,26.1482548,85.33160968,Alluvial Soil,300,32,225,7.0
+Bihar,Gopalganj,26.42111655,84.37391328,Alluvial Soil,300,32,225,7.0
+Bihar,Siwan,26.131008,84.39107448,Alluvial Soil,300,32,225,7.0
+Bihar,Saran,47.9514553,1.8749906,Alluvial Soil,300,32,225,7.0
+Bihar,Vaishali,25.74917025,85.3972164,Alluvial Soil,300,32,225,7.0
+Bihar,Samastipur,25.77478845,85.86723139,Alluvial Soil,300,32,225,7.0
+Bihar,Begusarai,25.5125411,86.08833919,Alluvial Soil,300,32,225,7.0
+Bihar,Khagaria,25.4930513,86.69822644,Alluvial Soil,300,32,225,7.0
+Bihar,Bhagalpur,25.28613535,87.13042293,Alluvial Soil,300,32,225,7.0
+Bihar,Banka,24.53,86.55,Alluvial Soil,300,32,225,7.0
+Bihar,Munger,25.2202864,86.51614836,Alluvial Soil,300,32,225,7.0
+Bihar,Lakhisarai,25.15439385,86.1744959,Alluvial Soil,300,32,225,7.0
+Bihar,Sheikhpura,25.1250741,85.81607708,Alluvial Soil,300,32,225,7.0
+Bihar,Nalanda,25.1364914,85.44365465,Alluvial Soil,300,32,225,7.0
+Bihar,Patna,25.6093239,85.1235252,Alluvial Soil,300,32,225,7.0
+Bihar,Bhojpur,25.4501182,84.56351928,Alluvial Soil,300,32,225,7.0
+Bihar,Buxar,25.5044834,84.10975247,Alluvial Soil,300,32,225,7.0
+Bihar,Kaimur (Bhabua),25.07634815,83.63359776,Alluvial Soil,300,32,225,7.0
+Bihar,Rohtas,24.93941425,84.01970312,Alluvial Soil,300,32,225,7.0
+Bihar,Aurangabad,24.80332005,84.41101978,Alluvial Soil,300,32,225,7.0
+Bihar,Gaya,24.67938895,85.0115833,Alluvial Soil,300,32,225,7.0
+Bihar,Nawada,24.8173249,85.51790847,Alluvial Soil,300,32,225,7.0
+Bihar,Jamui,24.75625135,86.30111278,Alluvial Soil,300,32,225,7.0
+Bihar,Jehanabad,25.15295785,85.00650426,Alluvial Soil,300,32,225,7.0
+Bihar,Arwal,25.18128315,84.65966477,Alluvial Soil,300,32,225,7.0
+Sikkim,North  District,22.51694935,114.2135927,Mountain Soil,200,18,150,5.5
+Sikkim,West District,24.14138,120.67104,Mountain Soil,200,18,150,5.5
+Sikkim,South District,30.6823334,34.88242291,Mountain Soil,200,18,150,5.5
+Sikkim,East District,24.1366249,120.7038538,Mountain Soil,200,18,150,5.5
+Arunachal Pradesh,Tawang,27.6741942,91.93620588,Mountain Soil,200,18,150,5.5
+Arunachal Pradesh,West Kameng,27.33862695,92.43336624,Alluvial Soil,300,32,225,7.0
+Arunachal Pradesh,East Kameng,27.55778095,92.96738427,Mountain Soil,200,18,150,5.5
+Arunachal Pradesh,Papum Pare,27.28636665,93.6187716,Alluvial Soil,300,32,225,7.0
+Arunachal Pradesh,Upper Subansiri,28.2596054,94.09381061,Mountain Soil,200,18,150,5.5
+Arunachal Pradesh,West Siang,28.1970922,94.48406997,Alluvial Soil,300,32,225,7.0
+Arunachal Pradesh,East Siang,28.07422185,95.4178149,Mountain Soil,200,18,150,5.5
+Arunachal Pradesh,Upper Siang,28.73120455,95.03773151,Alluvial Soil,300,32,225,7.0
+Arunachal Pradesh,Changlang,27.272007,96.06552596,Mountain Soil,200,18,150,5.5
+Arunachal Pradesh,Tirap,27.03016895,95.49791755,Alluvial Soil,300,32,225,7.0
+Arunachal Pradesh,Lower Subansiri,27.53263265,93.78232446,Mountain Soil,200,18,150,5.5
+Arunachal Pradesh,Kurung Kumey,27.98636765,93.15783469,Alluvial Soil,300,32,225,7.0
+Arunachal Pradesh,Dibang Valley,28.8291044,95.95540958,Mountain Soil,200,18,150,5.5
+Arunachal Pradesh,Lower Dibang Valley,28.21495625,95.87877404,Alluvial Soil,300,32,225,7.0
+Arunachal Pradesh,Lohit,28.03501615,96.17135154,Mountain Soil,200,18,150,5.5
+Arunachal Pradesh,Anjaw,28.1114301,96.82699963,Alluvial Soil,300,32,225,7.0
+Nagaland,Mon,50.4549568,3.951958,Mountain Soil,200,18,150,5.5
+Nagaland,Mokokchung,26.4795861,94.51052755,Laterite Soil,150,20,125,5.2
+Nagaland,Zunheboto,26.01238025,94.51237195,Mountain Soil,200,18,150,5.5
+Nagaland,Wokha,26.24225095,94.1921153,Laterite Soil,150,20,125,5.2
+Nagaland,Dimapur,25.90413785,93.71776088,Mountain Soil,200,18,150,5.5
+Nagaland,Phek,25.6514473,94.38097877,Laterite Soil,150,20,125,5.2
+Nagaland,Tuensang,26.23421065,94.74155302,Mountain Soil,200,18,150,5.5
+Nagaland,Longleng,26.58393145,94.80454811,Laterite Soil,150,20,125,5.2
+Nagaland,Kiphire,25.81138215,94.84949683,Mountain Soil,200,18,150,5.5
+Nagaland,Kohima,25.6618755,94.1019156,Laterite Soil,150,20,125,5.2
+Nagaland,Peren,25.4502306,93.60011541,Mountain Soil,200,18,150,5.5
+Manipur,Senapati,25.39336975,94.15051748,Laterite Soil,150,20,125,5.2
+Manipur,Tamenglong,24.9858596,93.5039967,Mountain Soil,200,18,150,5.5
+Manipur,Churachandpur,24.28131075,93.6760386,Laterite Soil,150,20,125,5.2
+Manipur,Bishnupur,23.0757335,87.3146343,Mountain Soil,200,18,150,5.5
+Manipur,Thoubal,24.62525025,94.00835224,Laterite Soil,150,20,125,5.2
+Manipur,Imphal West,24.757326,93.85847858,Mountain Soil,200,18,150,5.5
+Manipur,Imphal East,24.85154025,94.00947958,Laterite Soil,150,20,125,5.2
+Manipur,Ukhrul,25.3110738,94.47537752,Mountain Soil,200,18,150,5.5
+Manipur,Chandel,24.1700959,94.00596727,Laterite Soil,150,20,125,5.2
+Mizoram,Mamit,23.7564387,92.45153737,Mountain Soil,200,18,150,5.5
+Mizoram,Kolasib,24.1905469,92.71365945,Mountain Soil,200,18,150,5.5
+Mizoram,Aizawl,23.7433532,92.7382756,Mountain Soil,200,18,150,5.5
+Mizoram,Champhai,23.54437435,93.34795058,Mountain Soil,200,18,150,5.5
+Mizoram,Serchhip,23.3052514,92.84551233,Mountain Soil,200,18,150,5.5
+Mizoram,Lunglei,22.95199715,92.63388271,Mountain Soil,200,18,150,5.5
+Mizoram,Lawngtlai,22.3913377,92.73971892,Mountain Soil,200,18,150,5.5
+Mizoram,Saiha,22.2876724,93.01336001,Mountain Soil,200,18,150,5.5
+Tripura,West Tripura,23.91533285,91.38793411,Laterite Soil,150,20,125,5.2
+Tripura,South Tripura,23.1708278,91.63881696,Alluvial Soil,300,32,225,7.0
+Tripura,Dhalai,23.8253158,91.97322267,Laterite Soil,150,20,125,5.2
+Tripura,North Tripura,24.0921476,92.24512135,Alluvial Soil,300,32,225,7.0
+Meghalaya,West Garo Hills,25.60631425,90.21139055,Laterite Soil,150,20,125,5.2
+Meghalaya,East Garo Hills,25.61849455,90.63421622,Mountain Soil,200,18,150,5.5
+Meghalaya,South Garo Hills,25.347969,90.56577726,Laterite Soil,150,20,125,5.2
+Meghalaya,West Khasi Hills,25.5814429,91.08510944,Mountain Soil,200,18,150,5.5
+Meghalaya,Ribhoi,25.723641,92.04263387,Laterite Soil,150,20,125,5.2
+Meghalaya,East Khasi Hills,25.40237355,91.83171775,Mountain Soil,200,18,150,5.5
+Meghalaya,Jaintia Hills,25.5,92.25,Laterite Soil,150,20,125,5.2
+Assam,Kokrajhar,26.49121035,90.1215209,Alluvial Soil,300,32,225,7.0
+Assam,Dhubri,26.13227505,90.12499623,Laterite Soil,150,20,125,5.2
+Assam,Goalpara,26.04918765,90.60018586,Alluvial Soil,300,32,225,7.0
+Assam,Barpeta,26.345941,91.03970796,Laterite Soil,150,20,125,5.2
+Assam,Morigaon,26.2552206,92.3285733,Alluvial Soil,300,32,225,7.0
+Assam,Nagaon,26.3313646,92.75247628,Laterite Soil,150,20,125,5.2
+Assam,Sonitpur,26.76777075,92.70140886,Alluvial Soil,300,32,225,7.0
+Assam,Lakhimpur,27.17633555,94.19929317,Laterite Soil,150,20,125,5.2
+Assam,Dhemaji,27.5945155,94.71920979,Alluvial Soil,300,32,225,7.0
+Assam,Tinsukia,27.4879722,95.3601855,Laterite Soil,150,20,125,5.2
+Assam,Dibrugarh,27.4844597,94.9019447,Alluvial Soil,300,32,225,7.0
+Assam,Sivasagar,26.9834936,94.6394226,Laterite Soil,150,20,125,5.2
+Assam,Jorhat,26.7577925,94.2079645,Alluvial Soil,300,32,225,7.0
+Assam,Golaghat,26.5108262,93.9743686,Laterite Soil,150,20,125,5.2
+Assam,Karbi Anglong,26.0,93.5,Alluvial Soil,300,32,225,7.0
+Assam,Dima Hasao,25.40036255,93.07522923,Laterite Soil,150,20,125,5.2
+Assam,Cachar,24.75863995,92.88166476,Alluvial Soil,300,32,225,7.0
+Assam,Karimganj,24.58281955,92.37254865,Laterite Soil,150,20,125,5.2
+Assam,Hailakandi,24.6846916,92.5645836,Alluvial Soil,300,32,225,7.0
+Assam,Bongaigaon,26.4800126,90.5580387,Laterite Soil,150,20,125,5.2
+Assam,Chirang,26.6464231,90.62415699,Alluvial Soil,300,32,225,7.0
+Assam,Kamrup,26.14688605,91.22273973,Laterite Soil,150,20,125,5.2
+Assam,Kamrup Metropolitan,26.13526375,91.86167063,Alluvial Soil,300,32,225,7.0
+Assam,Nalbari,26.35336315,91.39836618,Laterite Soil,150,20,125,5.2
+Assam,Baksa,45.9595045,18.0950419,Alluvial Soil,300,32,225,7.0
+Assam,Darrang,26.43734815,92.00471446,Laterite Soil,150,20,125,5.2
+Assam,Udalguri,26.70472375,92.04215071,Alluvial Soil,300,32,225,7.0
+West Bengal,Darjiling,26.75,88.25,Alluvial Soil,300,32,225,7.0
+West Bengal,Jalpaiguri,26.62628045,88.73344852,Laterite Soil,150,20,125,5.2
+West Bengal,Koch Bihar,26.3223696,89.4592445,Alluvial Soil,300,32,225,7.0
+West Bengal,Uttar Dinajpur,25.8721428,87.96198604,Laterite Soil,150,20,125,5.2
+West Bengal,Dakshin Dinajpur,25.38580695,88.5063362,Alluvial Soil,300,32,225,7.0
+West Bengal,Maldah,25.09770975,88.12617135,Laterite Soil,150,20,125,5.2
+West Bengal,Murshidabad,24.1745993,88.2721335,Alluvial Soil,300,32,225,7.0
+West Bengal,Birbhum,24.06215315,87.69828229,Laterite Soil,150,20,125,5.2
+West Bengal,Barddhaman,23.25,87.75,Alluvial Soil,300,32,225,7.0
+West Bengal,Nadia,23.4847374,88.55670673,Laterite Soil,150,20,125,5.2
+West Bengal,North Twenty Four Parganas,22.5,88.666667,Alluvial Soil,300,32,225,7.0
+West Bengal,Hugli,22.7483803,88.7425195,Laterite Soil,150,20,125,5.2
+West Bengal,Bankura,23.132377,87.20819251,Alluvial Soil,300,32,225,7.0
+West Bengal,Puruliya,23.333333,86.416667,Laterite Soil,150,20,125,5.2
+West Bengal,Haora,22.5736296,88.3251045,Alluvial Soil,300,32,225,7.0
+West Bengal,Kolkata,22.5726459,88.3638953,Laterite Soil,150,20,125,5.2
+West Bengal,South Twenty Four Parganas,22.1,88.32,Alluvial Soil,300,32,225,7.0
+West Bengal,Paschim Medinipur,22.36001185,87.41115051,Laterite Soil,150,20,125,5.2
+West Bengal,Purba Medinipur,22.0648451,87.83775865,Alluvial Soil,300,32,225,7.0
+Jharkhand,Garhwa,24.053577,83.65268182,Red Soil,225,25,150,6.2
+Jharkhand,Chatra,24.10623165,84.86233795,Laterite Soil,150,20,125,5.2
+Jharkhand,Kodarma,24.54238015,85.69300996,Red Soil,225,25,150,6.2
+Jharkhand,Giridih,24.33145465,86.15481173,Laterite Soil,150,20,125,5.2
+Jharkhand,Deoghar,24.4898318,86.6990182,Red Soil,225,25,150,6.2
+Jharkhand,Godda,24.8645886,87.29848378,Laterite Soil,150,20,125,5.2
+Jharkhand,Sahibganj,25.0320437,87.69176396,Red Soil,225,25,150,6.2
+Jharkhand,Pakur,24.53259085,87.59323198,Laterite Soil,150,20,125,5.2
+Jharkhand,Dhanbad,23.7952809,86.4309638,Red Soil,225,25,150,6.2
+Jharkhand,Bokaro,23.69912795,85.99106894,Laterite Soil,150,20,125,5.2
+Jharkhand,Lohardaga,23.4770044,84.69866842,Red Soil,225,25,150,6.2
+Jharkhand,Purbi Singhbhum,22.3,86.3,Laterite Soil,150,20,125,5.2
+Jharkhand,Palamu,24.22129825,84.17255646,Red Soil,225,25,150,6.2
+Jharkhand,Latehar,23.6880057,84.49695511,Laterite Soil,150,20,125,5.2
+Jharkhand,Hazaribagh,24.0866962,85.4912231,Red Soil,225,25,150,6.2
+Jharkhand,Ramgarh,23.693479,85.52159886,Laterite Soil,150,20,125,5.2
+Jharkhand,Dumka,24.2677937,87.2485495,Red Soil,225,25,150,6.2
+Jharkhand,Jamtara,23.9801639,86.9243637,Laterite Soil,150,20,125,5.2
+Jharkhand,Ranchi,23.3700501,85.3250387,Red Soil,225,25,150,6.2
+Jharkhand,Khunti,22.92818005,85.28144746,Laterite Soil,150,20,125,5.2
+Jharkhand,Gumla,23.1603759,84.45995652,Red Soil,225,25,150,6.2
+Jharkhand,Simdega,22.59045725,84.5464805,Laterite Soil,150,20,125,5.2
+Jharkhand,Pashchimi Singhbhum,22.22,85.26,Red Soil,225,25,150,6.2
+Jharkhand,Saraikela-Kharsawan,22.7464225,85.91689291,Laterite Soil,150,20,125,5.2
+Orissa,Bargarh,21.2319922,83.5652737,Red Soil,225,25,150,6.2
+Orissa,Jharsuguda,21.8019368,83.97139645,Laterite Soil,150,20,125,5.2
+Orissa,Sambalpur,21.5570606,84.15285151,Alluvial Soil,300,32,225,7.0
+Orissa,Debagarh,21.4477962,84.71742035,Red Soil,225,25,150,6.2
+Orissa,Sundargarh,22.0605153,83.93591538,Laterite Soil,150,20,125,5.2
+Orissa,Kendujhar,21.5892323,85.66878414,Alluvial Soil,300,32,225,7.0
+Orissa,Mayurbhanj,21.9156338,86.3961824,Red Soil,225,25,150,6.2
+Orissa,Baleshwar,21.51979155,86.87906376,Laterite Soil,150,20,125,5.2
+Orissa,Bhadrak,20.9854052,86.59342265,Alluvial Soil,300,32,225,7.0
+Orissa,Kendrapara,20.5475164,86.52961682,Red Soil,225,25,150,6.2
+Orissa,Jagatsinghapur,20.1801473,86.34148737,Laterite Soil,150,20,125,5.2
+Orissa,Cuttack,20.4686,85.8792,Alluvial Soil,300,32,225,7.0
+Orissa,Jajapur,20.8277892,86.37983526,Red Soil,225,25,150,6.2
+Orissa,Dhenkanal,20.83514935,85.60223048,Laterite Soil,150,20,125,5.2
+Orissa,Anugul,20.8411255,85.08040066,Alluvial Soil,300,32,225,7.0
+Orissa,Nayagarh,20.23936825,85.050728,Red Soil,225,25,150,6.2
+Orissa,Khordha,20.05381485,85.50233082,Laterite Soil,150,20,125,5.2
+Orissa,Puri,19.8076083,85.8252538,Alluvial Soil,300,32,225,7.0
+Orissa,Ganjam,19.60900675,84.70806332,Red Soil,225,25,150,6.2
+Orissa,Gajapati,19.1966026,84.19306336,Laterite Soil,150,20,125,5.2
+Orissa,Kandhamal,20.13069385,84.07904761,Alluvial Soil,300,32,225,7.0
+Orissa,Baudh,20.8415619,84.3213321,Red Soil,225,25,150,6.2
+Orissa,Subarnapur,20.85357835,83.85291592,Laterite Soil,150,20,125,5.2
+Orissa,Balangir,20.6095183,83.16730287,Alluvial Soil,300,32,225,7.0
+Orissa,Nuapada,20.5412657,82.5292352,Red Soil,225,25,150,6.2
+Orissa,Kalahandi,19.82657565,83.04087019,Laterite Soil,150,20,125,5.2
+Orissa,Rayagada,19.44266975,83.58730533,Alluvial Soil,300,32,225,7.0
+Orissa,Nabarangapur,19.60962325,82.29876854,Red Soil,225,25,150,6.2
+Orissa,Koraput,18.7232023,82.61005964,Laterite Soil,150,20,125,5.2
+Orissa,Malkangiri,18.27446845,81.95203158,Alluvial Soil,300,32,225,7.0
+Chhattisgarh,Koriya,23.476254,82.47763737,Red Soil,225,25,150,6.2
+Chhattisgarh,Surguja,22.94691345,83.16569423,Laterite Soil,150,20,125,5.2
+Chhattisgarh,Jashpur,22.770251,83.97080132,Black Soil,350,38,450,7.5
+Chhattisgarh,Raigarh,22.23617945,83.35295335,Red Soil,225,25,150,6.2
+Chhattisgarh,Korba,22.5198217,82.63500285,Laterite Soil,150,20,125,5.2
+Chhattisgarh,Janjgir - Champa,21.986403,82.55366063,Black Soil,350,38,450,7.5
+Chhattisgarh,Bilaspur,22.1638486,82.13659232,Red Soil,225,25,150,6.2
+Chhattisgarh,Kabeerdham,22.06,81.15,Laterite Soil,150,20,125,5.2
+Chhattisgarh,Rajnandgaon,21.06844245,80.79707794,Black Soil,350,38,450,7.5
+Chhattisgarh,Durg,21.1982964,81.40079216,Red Soil,225,25,150,6.2
+Chhattisgarh,Raipur,21.2380912,81.6336993,Laterite Soil,150,20,125,5.2
+Chhattisgarh,Mahasamund,21.19228455,82.48902633,Black Soil,350,38,450,7.5
+Chhattisgarh,Dhamtari,20.53262585,81.71559868,Red Soil,225,25,150,6.2
+Chhattisgarh,Uttar Bastar Kanker,20.12868925,80.98453,Laterite Soil,150,20,125,5.2
+Chhattisgarh,Bastar,19.11912825,81.82918649,Black Soil,350,38,450,7.5
+Chhattisgarh,Narayanpur,19.5842032,81.11369855,Red Soil,225,25,150,6.2
+Chhattisgarh,Dakshin Bastar Dantewada,18.51,81.23,Laterite Soil,150,20,125,5.2
+Chhattisgarh,Bijapur,18.7935679,80.815939,Black Soil,350,38,450,7.5
+Madhya Pradesh,Sheopur,25.74992665,76.92129449,Black Soil,350,38,450,7.5
+Madhya Pradesh,Morena,26.3849794,77.86127213,Red Soil,225,25,150,6.2
+Madhya Pradesh,Bhind,26.3518828,78.68631888,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Gwalior,26.2037247,78.1573628,Black Soil,350,38,450,7.5
+Madhya Pradesh,Datia,25.91829465,78.66449616,Red Soil,225,25,150,6.2
+Madhya Pradesh,Shivpuri,25.37412155,77.82788661,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Tikamgarh,24.85521045,79.0472546,Black Soil,350,38,450,7.5
+Madhya Pradesh,Chhatarpur,24.76060895,79.67817759,Red Soil,225,25,150,6.2
+Madhya Pradesh,Panna,24.44989305,80.14627227,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Sagar,23.80830755,78.75825399,Black Soil,350,38,450,7.5
+Madhya Pradesh,Damoh,23.7981005,79.54193562,Red Soil,225,25,150,6.2
+Madhya Pradesh,Satna,24.6954445,80.77703482,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Rewa,24.75608455,81.38105739,Black Soil,350,38,450,7.5
+Madhya Pradesh,Umaria,23.64318365,80.94190778,Red Soil,225,25,150,6.2
+Madhya Pradesh,Neemuch,24.63055165,75.18289996,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Mandsaur,24.2628148,75.38569204,Black Soil,350,38,450,7.5
+Madhya Pradesh,Ratlam,23.50222005,74.95515341,Red Soil,225,25,150,6.2
+Madhya Pradesh,Ujjain,23.1885131,75.7716562,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Shajapur,23.41710015,76.60747943,Black Soil,350,38,450,7.5
+Madhya Pradesh,Dewas,22.8057498,76.29404077,Red Soil,225,25,150,6.2
+Madhya Pradesh,Dhar,22.5786572,75.22586367,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Indore,22.7203616,75.8681996,Black Soil,350,38,450,7.5
+Madhya Pradesh,Khargone (West Nimar),21.833333,75.5,Red Soil,225,25,150,6.2
+Madhya Pradesh,Barwani,21.7514248,74.89159567,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Rajgarh,23.87167065,76.77447034,Black Soil,350,38,450,7.5
+Madhya Pradesh,Vidisha,23.84630035,77.83702093,Red Soil,225,25,150,6.2
+Madhya Pradesh,Bhopal,23.2584857,77.401989,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Sehore,23.11500415,77.06653558,Black Soil,350,38,450,7.5
+Madhya Pradesh,Raisen,23.2675909,78.17271345,Red Soil,225,25,150,6.2
+Madhya Pradesh,Betul,21.8797472,77.87536507,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Harda,22.24279725,77.11791732,Black Soil,350,38,450,7.5
+Madhya Pradesh,Hoshangabad,22.743061,77.71893385,Red Soil,225,25,150,6.2
+Madhya Pradesh,Katni,23.7176393,80.26101813,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Jabalpur,23.1701522,79.9324505,Black Soil,350,38,450,7.5
+Madhya Pradesh,Narsimhapur,22.916667,79.166667,Red Soil,225,25,150,6.2
+Madhya Pradesh,Dindori,22.9070871,80.88469236,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Mandla,22.6871074,80.58163412,Black Soil,350,38,450,7.5
+Madhya Pradesh,Chhindwara,22.20718965,78.79883296,Red Soil,225,25,150,6.2
+Madhya Pradesh,Seoni,22.2748109,79.72025222,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Balaghat,21.8611589,80.32371048,Black Soil,350,38,450,7.5
+Madhya Pradesh,Guna,24.5001772,77.26009593,Red Soil,225,25,150,6.2
+Madhya Pradesh,Ashoknagar,24.6186095,77.87869829,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Shahdol,23.3002343,81.364771,Black Soil,350,38,450,7.5
+Madhya Pradesh,Anuppur,23.0346179,81.75102552,Red Soil,225,25,150,6.2
+Madhya Pradesh,Sidhi,24.2112687,81.70004154,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Singrauli,24.2431343,82.38276721,Black Soil,350,38,450,7.5
+Madhya Pradesh,Jhabua,22.88696515,74.72432486,Red Soil,225,25,150,6.2
+Madhya Pradesh,Alirajpur,22.28595245,74.35456283,Laterite Soil,150,20,125,5.2
+Madhya Pradesh,Khandwa (East Nimar),21.75,76.583333,Black Soil,350,38,450,7.5
+Madhya Pradesh,Burhanpur,21.33486695,76.37088028,Red Soil,225,25,150,6.2
+Gujarat,Kachchh,23.583333,70.0,Black Soil,350,38,450,7.5
+Gujarat,Banas Kantha,24.25,72.5,Alluvial Soil,300,32,225,7.0
+Gujarat,Patan,23.773753,71.67985813,Desert Soil,100,12,175,8.2
+Gujarat,Mahesana,23.6015557,72.3867981,Black Soil,350,38,450,7.5
+Gujarat,Sabar Kantha,23.5,73.25,Alluvial Soil,300,32,225,7.0
+Gujarat,Gandhinagar,23.2232877,72.6492267,Desert Soil,100,12,175,8.2
+Gujarat,Ahmadabad,23.0215374,72.5800568,Black Soil,350,38,450,7.5
+Gujarat,Surendranagar,22.82513945,71.62097359,Alluvial Soil,300,32,225,7.0
+Gujarat,Rajkot,22.3053263,70.8028377,Desert Soil,100,12,175,8.2
+Gujarat,Jamnagar,22.4732415,70.0552102,Black Soil,350,38,450,7.5
+Gujarat,Porbandar,21.6409,69.611,Alluvial Soil,300,32,225,7.0
+Gujarat,Junagadh,21.5220416,70.4582458,Desert Soil,100,12,175,8.2
+Gujarat,Amreli,21.4176122,71.24960899,Black Soil,350,38,450,7.5
+Gujarat,Bhavnagar,21.7718836,72.1416449,Alluvial Soil,300,32,225,7.0
+Gujarat,Anand,22.5586555,72.9627227,Desert Soil,100,12,175,8.2
+Gujarat,Kheda,22.8532503,72.99535862,Black Soil,350,38,450,7.5
+Gujarat,Panch Mahals,23.0,74.0,Alluvial Soil,300,32,225,7.0
+Gujarat,Dohad,24.51758155,77.23663345,Desert Soil,100,12,175,8.2
+Gujarat,Vadodara,22.2973142,73.1942567,Black Soil,350,38,450,7.5
+Gujarat,Narmada,22.6694223,77.5687122,Alluvial Soil,300,32,225,7.0
+Gujarat,Bharuch,21.7080427,72.9956936,Desert Soil,100,12,175,8.2
+Gujarat,The Dangs,20.75,73.75,Black Soil,350,38,450,7.5
+Gujarat,Navsari,20.952407,72.9323831,Alluvial Soil,300,32,225,7.0
+Gujarat,Valsad,20.43219565,73.1409893,Desert Soil,100,12,175,8.2
+Gujarat,Surat,21.2094892,72.8317058,Black Soil,350,38,450,7.5
+Gujarat,Tapi,21.1787195,75.44245,Alluvial Soil,300,32,225,7.0
+Daman And Diu,Diu,20.7137783,70.9853635,Coastal Alluvial Soil,225,30,275,7.0
+Daman And Diu,Daman,20.4169701,72.833173,Coastal Alluvial Soil,225,30,275,7.0
+Dadra And Nagar Haveli,Dadra AND Nagar Haveli,20.2733946,73.0044983,Coastal Alluvial Soil,225,30,275,7.0
+Maharashtra,Nandurbar,21.51416215,74.54055133,Black Soil,350,38,450,7.5
+Maharashtra,Dhule,21.1305215,74.49006143,Laterite Soil,150,20,125,5.2
+Maharashtra,Jalgaon,20.84288265,75.52612464,Red Soil,225,25,150,6.2
+Maharashtra,Buldana,20.562845,76.40869861,Black Soil,350,38,450,7.5
+Maharashtra,Akola,20.76181225,77.19211567,Laterite Soil,150,20,125,5.2
+Maharashtra,Washim,20.28741775,77.2369655,Red Soil,225,25,150,6.2
+Maharashtra,Amravati,21.15454115,77.64429618,Black Soil,350,38,450,7.5
+Maharashtra,Wardha,20.82562315,78.6131455,Laterite Soil,150,20,125,5.2
+Maharashtra,Nagpur,21.1498134,79.0820556,Red Soil,225,25,150,6.2
+Maharashtra,Bhandara,21.1225869,79.79450899,Black Soil,350,38,450,7.5
+Maharashtra,Gondiya,21.1456285,80.26838675,Laterite Soil,150,20,125,5.2
+Maharashtra,Gadchiroli,19.75907035,80.16228073,Red Soil,225,25,150,6.2
+Maharashtra,Chandrapur,20.0967555,79.50454752,Black Soil,350,38,450,7.5
+Maharashtra,Yavatmal,20.0638677,78.3565663,Laterite Soil,150,20,125,5.2
+Maharashtra,Nanded,19.09400875,77.48319215,Red Soil,225,25,150,6.2
+Maharashtra,Hingoli,19.54311635,77.17394324,Black Soil,350,38,450,7.5
+Maharashtra,Parbhani,19.29019805,76.60264434,Laterite Soil,150,20,125,5.2
+Maharashtra,Jalna,19.91883295,75.87085986,Red Soil,225,25,150,6.2
+Maharashtra,Aurangabad,24.80332005,84.41101978,Black Soil,350,38,450,7.5
+Maharashtra,Nashik,20.0112475,73.7902364,Laterite Soil,150,20,125,5.2
+Maharashtra,Thane,19.1943294,72.9701779,Red Soil,225,25,150,6.2
+Maharashtra,Mumbai Suburban,19.054999,72.8692035,Black Soil,350,38,450,7.5
+Maharashtra,Mumbai,19.054999,72.8692035,Laterite Soil,150,20,125,5.2
+Maharashtra,Raigarh,22.23617945,83.35295335,Red Soil,225,25,150,6.2
+Maharashtra,Pune,18.5213738,73.8545071,Black Soil,350,38,450,7.5
+Maharashtra,Ahmadnagar,23.68163765,77.70690118,Laterite Soil,150,20,125,5.2
+Maharashtra,Bid,18.59,75.45,Red Soil,225,25,150,6.2
+Maharashtra,Latur,18.35533475,76.75489974,Black Soil,350,38,450,7.5
+Maharashtra,Osmanabad,18.28224535,76.0588166,Laterite Soil,150,20,125,5.2
+Maharashtra,Solapur,17.84990665,75.27632027,Red Soil,225,25,150,6.2
+Maharashtra,Satara,17.63612885,74.29827808,Black Soil,350,38,450,7.5
+Maharashtra,Ratnagiri,17.2826079,73.4569787,Laterite Soil,150,20,125,5.2
+Maharashtra,Sindhudurg,16.1357193,73.6522086,Red Soil,225,25,150,6.2
+Maharashtra,Kolhapur,16.7028412,74.2405329,Black Soil,350,38,450,7.5
+Maharashtra,Sangli,17.1726928,74.58676543,Laterite Soil,150,20,125,5.2
+Andhra Pradesh,Adilabad,19.6759452,78.5339895,Red Soil,225,25,150,6.2
+Andhra Pradesh,Nizamabad,18.6732693,78.0978477,Black Soil,350,38,450,7.5
+Andhra Pradesh,Karimnagar,18.4348122,79.1328042,Laterite Soil,150,20,125,5.2
+Andhra Pradesh,Medak,17.9375095,78.21174499,Red Soil,225,25,150,6.2
+Andhra Pradesh,Hyderabad,17.360589,78.4740613,Black Soil,350,38,450,7.5
+Andhra Pradesh,Rangareddy,16.9344152,77.7788338,Laterite Soil,150,20,125,5.2
+Andhra Pradesh,Mahbubnagar,16.7434538,77.9923191,Red Soil,225,25,150,6.2
+Andhra Pradesh,Nalgonda,16.8579636,79.21749353,Black Soil,350,38,450,7.5
+Andhra Pradesh,Warangal,17.9820644,79.5970954,Laterite Soil,150,20,125,5.2
+Andhra Pradesh,Khammam,17.2465351,80.1500326,Red Soil,225,25,150,6.2
+Andhra Pradesh,Srikakulam,18.2949307,83.8938844,Black Soil,350,38,450,7.5
+Andhra Pradesh,Vizianagaram,18.1141255,83.4114389,Laterite Soil,150,20,125,5.2
+Andhra Pradesh,Visakhapatnam,17.6935526,83.2921297,Red Soil,225,25,150,6.2
+Andhra Pradesh,East Godavari,16.99566385,81.71543779,Black Soil,350,38,450,7.5
+Andhra Pradesh,West Godavari,16.64430285,81.58852468,Laterite Soil,150,20,125,5.2
+Andhra Pradesh,Krishna,16.21277,81.03069575,Red Soil,225,25,150,6.2
+Andhra Pradesh,Guntur,16.2915189,80.4541588,Black Soil,350,38,450,7.5
+Andhra Pradesh,Prakasam,15.66426435,79.47330014,Laterite Soil,150,20,125,5.2
+Andhra Pradesh,Sri Potti Sriramulu Nellore,14.7174388,79.66050571,Red Soil,225,25,150,6.2
+Andhra Pradesh,Y.S.R.,14.35,78.49,Black Soil,350,38,450,7.5
+Andhra Pradesh,Kurnool,15.8309251,78.0425373,Laterite Soil,150,20,125,5.2
+Andhra Pradesh,Anantapur,14.72421995,77.43067381,Red Soil,225,25,150,6.2
+Andhra Pradesh,Chittoor,13.2026484,79.00322534,Black Soil,350,38,450,7.5
+Karnataka,Belgaum,15.8572666,74.5069343,Red Soil,225,25,150,6.2
+Karnataka,Bagalkot,16.1793224,75.6999315,Black Soil,350,38,450,7.5
+Karnataka,Bijapur,18.7935679,80.815939,Laterite Soil,150,20,125,5.2
+Karnataka,Bidar,18.02072965,77.24872036,Red Soil,225,25,150,6.2
+Karnataka,Raichur,16.0547194,76.90036472,Black Soil,350,38,450,7.5
+Karnataka,Koppal,15.57482375,76.31184937,Laterite Soil,150,20,125,5.2
+Karnataka,Gadag,15.41669195,75.68158013,Red Soil,225,25,150,6.2
+Karnataka,Dharwad,15.3707296,75.13328673,Black Soil,350,38,450,7.5
+Karnataka,Uttara Kannada,14.72537945,74.64033891,Laterite Soil,150,20,125,5.2
+Karnataka,Haveri,14.71802675,75.36564232,Red Soil,225,25,150,6.2
+Karnataka,Bellary,15.1433952,76.9193876,Black Soil,350,38,450,7.5
+Karnataka,Chitradurga,14.3049174,76.52972342,Laterite Soil,150,20,125,5.2
+Karnataka,Davanagere,14.2558835,75.83034209,Red Soil,225,25,150,6.2
+Karnataka,Shimoga,14.05565025,75.23805528,Black Soil,350,38,450,7.5
+Karnataka,Udupi,13.5269784,74.87318787,Laterite Soil,150,20,125,5.2
+Karnataka,Chikmagalur,13.318014,75.7738743,Red Soil,225,25,150,6.2
+Karnataka,Tumkur,13.3400771,77.1006208,Black Soil,350,38,450,7.5
+Karnataka,Bangalore,12.98815675,77.62260004,Laterite Soil,150,20,125,5.2
+Karnataka,Mandya,12.6368939,76.72754771,Red Soil,225,25,150,6.2
+Karnataka,Hassan,13.03018525,76.17449677,Black Soil,350,38,450,7.5
+Karnataka,Dakshina Kannada,12.82264335,75.22650363,Laterite Soil,150,20,125,5.2
+Karnataka,Kodagu,12.3827332,75.66407145,Red Soil,225,25,150,6.2
+Karnataka,Mysore,12.3051828,76.6553609,Black Soil,350,38,450,7.5
+Karnataka,Chamarajanagar,11.95442005,77.10690863,Laterite Soil,150,20,125,5.2
+Karnataka,Gulbarga,17.3310003,76.8334228,Red Soil,225,25,150,6.2
+Karnataka,Yadgir,16.57441225,76.92544345,Black Soil,350,38,450,7.5
+Karnataka,Kolar,13.18050655,78.26693289,Laterite Soil,150,20,125,5.2
+Karnataka,Chikkaballapura,13.58979405,77.77879301,Red Soil,225,25,150,6.2
+Karnataka,Bangalore Rural,13.0010872,77.3361225,Black Soil,350,38,450,7.5
+Karnataka,Ramanagara,12.72000595,77.31841991,Laterite Soil,150,20,125,5.2
+Goa,North Goa,15.60444125,74.00172406,Laterite Soil,150,20,125,5.2
+Goa,South Goa,15.219624,74.11590846,Coastal Alluvial Soil,225,30,275,7.0
+Lakshadweep,Lakshadweep,10.3337313,72.92053859,Coastal Sandy Soil,125,18,100,7.5
+Kerala,Kasaragod,12.42219635,75.19044458,Laterite Soil,150,20,125,5.2
+Kerala,Kannur,11.8763836,75.3737973,Coastal Alluvial Soil,225,30,275,7.0
+Kerala,Wayanad,11.71512915,76.12711851,Laterite Soil,150,20,125,5.2
+Kerala,Kozhikode,11.2450558,75.7754716,Coastal Alluvial Soil,225,30,275,7.0
+Kerala,Malappuram,11.10684475,76.1099551,Laterite Soil,150,20,125,5.2
+Kerala,Palakkad,10.78736915,76.47421719,Coastal Alluvial Soil,225,30,275,7.0
+Kerala,Thrissur,10.5270099,76.214621,Laterite Soil,150,20,125,5.2
+Kerala,Ernakulam,9.9837257,76.2740001,Coastal Alluvial Soil,225,30,275,7.0
+Kerala,Idukki,9.8154785,76.99915995,Laterite Soil,150,20,125,5.2
+Kerala,Kottayam,9.6287383,76.64553257,Coastal Alluvial Soil,225,30,275,7.0
+Kerala,Alappuzha,9.5006651,76.41241429,Laterite Soil,150,20,125,5.2
+Kerala,Pathanamthitta,9.2780841,76.9737443,Coastal Alluvial Soil,225,30,275,7.0
+Kerala,Kollam,8.8870815,76.5907017,Laterite Soil,150,20,125,5.2
+Kerala,Thiruvananthapuram,8.4882267,76.947551,Coastal Alluvial Soil,225,30,275,7.0
+Tamil Nadu,Thiruvallur,13.25376185,80.05625724,Red Soil,225,25,150,6.2
+Tamil Nadu,Chennai,13.0836939,80.270186,Black Soil,350,38,450,7.5
+Tamil Nadu,Kancheepuram,12.87960515,79.70427615,Laterite Soil,150,20,125,5.2
+Tamil Nadu,Vellore,12.9021849,79.06110399,Coastal Alluvial Soil,225,30,275,7.0
+Tamil Nadu,Tiruvannamalai,12.42892815,78.99914999,Red Soil,225,25,150,6.2
+Tamil Nadu,Viluppuram,12.11669665,79.59892355,Black Soil,350,38,450,7.5
+Tamil Nadu,Salem,11.4,78.08,Laterite Soil,150,20,125,5.2
+Tamil Nadu,Namakkal,11.30338895,78.11860402,Coastal Alluvial Soil,225,30,275,7.0
+Tamil Nadu,Erode,11.49052815,77.3505274,Red Soil,225,25,150,6.2
+Tamil Nadu,The Nilgiris,11.4,76.7,Black Soil,350,38,450,7.5
+Tamil Nadu,Dindigul,10.42568965,77.815664,Laterite Soil,150,20,125,5.2
+Tamil Nadu,Karur,10.8217671,78.38286541,Coastal Alluvial Soil,225,30,275,7.0
+Tamil Nadu,Tiruchirappalli,10.804973,78.6870296,Red Soil,225,25,150,6.2
+Tamil Nadu,Perambalur,11.2902641,78.9300404,Black Soil,350,38,450,7.5
+Tamil Nadu,Ariyalur,11.1530559,79.25857974,Laterite Soil,150,20,125,5.2
+Tamil Nadu,Cuddalore,11.52020705,79.33963565,Coastal Alluvial Soil,225,30,275,7.0
+Tamil Nadu,Nagapattinam,10.60262025,79.7619348,Red Soil,225,25,150,6.2
+Tamil Nadu,Thiruvarur,10.6878621,79.49794371,Black Soil,350,38,450,7.5
+Tamil Nadu,Thanjavur,10.65903695,79.20142776,Laterite Soil,150,20,125,5.2
+Tamil Nadu,Pudukkottai,10.2903072,78.81736166,Coastal Alluvial Soil,225,30,275,7.0
+Tamil Nadu,Sivaganga,9.8486881,78.4870461,Red Soil,225,25,150,6.2
+Tamil Nadu,Madurai,9.9261153,78.1140983,Black Soil,350,38,450,7.5
+Tamil Nadu,Theni,9.86925575,77.42229738,Laterite Soil,150,20,125,5.2
+Tamil Nadu,Virudhunagar,9.4926289,77.86318306,Coastal Alluvial Soil,225,30,275,7.0
+Tamil Nadu,Ramanathapuram,9.5205576,78.51846345,Red Soil,225,25,150,6.2
+Tamil Nadu,Thoothukkudi,8.7567452,78.07975266,Black Soil,350,38,450,7.5
+Tamil Nadu,Tirunelveli,8.7284271,77.7112925,Laterite Soil,150,20,125,5.2
+Tamil Nadu,Kanniyakumari,8.3279814,77.35411727,Coastal Alluvial Soil,225,30,275,7.0
+Tamil Nadu,Dharmapuri,12.14561305,78.11322172,Red Soil,225,25,150,6.2
+Tamil Nadu,Krishnagiri,12.51520745,78.00937693,Black Soil,350,38,450,7.5
+Tamil Nadu,Coimbatore,11.0018115,76.9628425,Laterite Soil,150,20,125,5.2
+Tamil Nadu,Tiruppur,10.79152665,77.53254663,Coastal Alluvial Soil,225,30,275,7.0
+Pondicherry,Yanam,16.7332235,82.20181178,Coastal Alluvial Soil,225,30,275,7.0
+Pondicherry,Pondicherry,10.91564885,79.8069488,Coastal Alluvial Soil,225,30,275,7.0
+Pondicherry,Mahe,11.7021978,75.5364701,Coastal Alluvial Soil,225,30,275,7.0
+Pondicherry,Karaikal,10.91571,79.8375761,Coastal Alluvial Soil,225,30,275,7.0
+Andaman And Nicobar Islands,Nicobars,10.47,92.29,Coastal Alluvial Soil,225,30,275,7.0
+Andaman And Nicobar Islands,North  AND Middle Andaman,12.61123865,92.83165406,Volcanic Soil,450,50,350,6.5
+Andaman And Nicobar Islands,South Andaman,10.7056905,92.4874679,Coastal Alluvial Soil,225,30,275,7.0
